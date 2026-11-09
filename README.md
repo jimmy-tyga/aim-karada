@@ -6,7 +6,8 @@ VALORANTなどのFPSプレイヤーが、エイムのために体の使い方を
 - `videos/` — 公開した動画のファイル(投稿用)
   - `s06.mp4` — Short「手首が反る人へ。イスを上げて、ひじを机の高さに」(1080×1920、約20秒)
   - `v01.mp4` — 通常動画「【VALORANT】姿勢を直しても数日で戻る人へ」(1920×1080、3分33秒)
-- 試作のページ(aim-posture)は準備中です。
+- `index.html` — 試作 Aim Posture(ブラウザ+Webカメラ。映像はブラウザの外に送りません)。公開ページ: https://jimmy-tyga.github.io/aim-karada/
+- `vendor/mediapipe/` — 姿勢モデル(MediaPipe、Apache-2.0)。詳細はその中の README
 
 音声: VOICEVOX:青山龍星
 
